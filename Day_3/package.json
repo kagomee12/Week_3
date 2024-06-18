@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon Day2/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "handlebars": "^4.7.8",
+    "hbs": "^4.2.0",
+    "nodemon": "^3.1.3"
+  }
+}
